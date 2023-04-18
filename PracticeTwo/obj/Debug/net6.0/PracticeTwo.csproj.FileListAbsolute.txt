@@ -26,3 +26,4 @@ D:\archivos2\Certi1\practica2\PracticeTwo\obj\Debug\net6.0\PracticeTwo.pdb
 D:\archivos2\Certi1\practica2\PracticeTwo\obj\Debug\net6.0\PracticeTwo.genruntimeconfig.cache
 D:\archivos2\Certi1\practica2\PracticeTwo\obj\Debug\net6.0\ref\PracticeTwo.dll
 D:\archivos2\Certi1\practica2\PracticeTwo\bin\Debug\net6.0\appsettings.QA.json
+D:\archivos2\Certi1\practica2\PracticeTwo\bin\Debug\net6.0\appsettings.UAT.json
