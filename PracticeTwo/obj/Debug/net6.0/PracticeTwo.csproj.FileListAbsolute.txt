@@ -27,3 +27,7 @@ D:\archivos2\Certi1\practica2\PracticeTwo\obj\Debug\net6.0\PracticeTwo.genruntim
 D:\archivos2\Certi1\practica2\PracticeTwo\obj\Debug\net6.0\ref\PracticeTwo.dll
 D:\archivos2\Certi1\practica2\PracticeTwo\bin\Debug\net6.0\appsettings.QA.json
 D:\archivos2\Certi1\practica2\PracticeTwo\bin\Debug\net6.0\appsettings.UAT.json
+D:\archivos2\Certi1\practica2\PracticeTwo\bin\Debug\net6.0\Serilog.dll
+D:\archivos2\Certi1\practica2\PracticeTwo\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\archivos2\Certi1\practica2\PracticeTwo\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\archivos2\Certi1\practica2\PracticeTwo\bin\Debug\net6.0\Serilog.Sinks.Console.dll

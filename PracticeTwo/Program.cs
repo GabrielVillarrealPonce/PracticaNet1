@@ -1,6 +1,13 @@
 using Microsoft.OpenApi.Models;
+using Serilog;
+
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .CreateBootstrapLogger();
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Host.UseSerilog();
 
 // Add services to the container.
 builder.Services.AddControllers();
@@ -24,6 +31,9 @@ builder.Services.AddSwaggerGen(options =>
             Title = siteTitle
         });
     });
+
+//Serilog.Debugging.SelfLog.Enable(msg => Debug.WriteLine(msg));Serilog.Debugging.SelfLog.Enable(Console.Error);
+
 var app = builder.Build();
 app.UseSwagger();
 app.UseSwaggerUI();
